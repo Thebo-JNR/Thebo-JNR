@@ -25,7 +25,7 @@ My background blends frontend craftsmanship with backend problem-solving — cre
 <p>
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="32" alt="html5 logo" />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="32" alt="css3 logo" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="32" alt="css3 logo" />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="javascript logo" />
   <img width="10" />

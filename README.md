@@ -12,8 +12,8 @@ I'm a Software Engineer with a passion for designing and building scalable, user
 My background blends frontend craftsmanship with backend problem-solving — creating solutions that are efficient, reliable, and visually engaging.
 
 - 🔭 Currently building and maintaining full-stack applications and data pipelines
-- 📜 Currently working toward the **AWS AI Practitioner** certification
-- 🌐 Check out my portfolio: [thebo-portfolio.com](#)
+- 📜 Currently working toward the **AWS AI & Cloud Practitioner** certifications
+- 🌐 Check out my portfolio: [https://thebo-mahlangu-my-portfolio.vercel.app/](#)
 - 💬 Ask me about React, Node.js, or Tailwind CSS
 
 ---
@@ -63,7 +63,6 @@ My background blends frontend craftsmanship with backend problem-solving — cre
   <img width="10" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="32" alt="figma logo" />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="32" alt="aws logo" />
 </p>
 
 ---
